@@ -1,0 +1,6 @@
+[submodule "SubmoduleLesson"]
+	path = SubmoduleLesson
+	url = https://github.com/GeminiLegend/SubmoduleLesson.git
+[submodule "SubmoduleLessonSubmodule"]
+	path = SubmoduleLessonSubmodule
+	url = https://github.com/GeminiLegend/SubmoduleLessonSubmodule.git
